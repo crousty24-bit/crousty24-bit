@@ -11,7 +11,7 @@
   <a href="https://x.com/crousty24" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="allen.kch24@gmail.com" target="_blank">
+  <a href="mailto:allen.kch24@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -85,17 +85,16 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/activity-graph-output/activity-graph.svg?theme=chartreuse-dark" height="150" alt="activity-graph graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/trophy-output/trophy.svg?theme=onedark" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=crousty24-bit&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/crousty24-bit/crousty24-bit/activity-graph-output/activity-graph.svg?theme=chartreuse-dark" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crousty24-bit/crousty24-bit/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crousty24-bit/crousty24-bit/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/crousty24-bit/crousty24-bit/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
 </picture>
 
 ###
