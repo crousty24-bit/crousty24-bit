@@ -1,20 +1,6 @@
-```diff
-+W   W EEEEE L     CCCCC  OOO  M   M EEEEE   TTTTT  OOO    M   M Y   Y
-+W   W E     L     C     O   O MM MM E         T   O   O   MM MM  Y Y
-+W W W EEEE  L     C     O   O M M M EEEE      T   O   O   M M M   Y
-+WW WW E     L     C     O   O M   M E         T   O   O   M   M   Y
-+W   W EEEEE LLLLL CCCCC  OOO  M   M EEEEE     T    OOO    M   M   Y
-+
-+DDDD  EEEEE V   V    RRRR   OOO   OOO  M   M
-+D   D E     V   V    R   R O   O O   O MM MM
-+D   D EEEE  V   V    RRRR  O   O O   O M M M
-+D   D E      V V     R R   O   O O   O M   M
-+DDDD  EEEEE   V      R  RR  OOO   OOO  M   M
-```
-
-<p align="center">
-  <img src="./assets/dev-room-terminal.svg" width="920" alt="Terminal displaying access to Allen's dev room" />
-</p>
+<h1 align="center">
+  <img src="./assets/dev-room-terminal.svg" width="920" alt="Welcome to my Dev Room" />
+</h1>
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/allen-koch-41290417b/" target="_blank">
@@ -97,7 +83,7 @@ I'm Allen from France.
 
 ## `> contribution_graph --watch`
 
-<div>
+<div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/crousty24-bit/crousty24-bit/activity-graph-output/activity-graph.svg?theme=chartreuse-dark" height="150" alt="activity graph" />
 </div>
 
