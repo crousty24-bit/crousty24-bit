@@ -3,12 +3,18 @@
 </h1>
 
 <div data-importer="socials" align="center">
+  <a href="https://allenkoch.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=googlechrome&logoColor=050805" height="25" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/allen-koch-41290417b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=050805" height="25" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://x.com/crousty24" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-39FF14?style=for-the-badge&logo=x&logoColor=050805" height="25" alt="X / Twitter" />
   </a>
+  &nbsp;
   <a href="mailto:allen.kch24@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=050805" height="25" alt="Gmail" />
   </a>
