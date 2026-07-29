@@ -1,12 +1,16 @@
-<div align="center" role="heading" aria-level="1" aria-label="Welcome to my Dev Room">
-<pre>
-__      __   _                    _          __  __       ___            ___
-\ \    / /__| |__ ___ _ __  ___  | |_ ___  |  \/  |_  _ |   \ _____ __ | _ \___  ___ _ __
- \ \/\/ / -_) / _/ _ \ '  \/ -_) |  _/ _ \ | |\/| | || || |) / -_) V / |   / _ \/ _ \ '  \
-  \_/\_/\___|_\__\___/_|_|_\___|  \__\___/ |_|  |_|\_, ||___/\___|\_/  |_|_\___/\___/_|_|_|
-                                                    |__/
-</pre>
-</div>
+```diff
++W   W EEEEE L     CCCCC  OOO  M   M EEEEE   TTTTT  OOO    M   M Y   Y
++W   W E     L     C     O   O MM MM E         T   O   O   MM MM  Y Y
++W W W EEEE  L     C     O   O M M M EEEE      T   O   O   M M M   Y
++WW WW E     L     C     O   O M   M E         T   O   O   M   M   Y
++W   W EEEEE LLLLL CCCCC  OOO  M   M EEEEE     T    OOO    M   M   Y
++
++DDDD  EEEEE V   V    RRRR   OOO   OOO  M   M
++D   D E     V   V    R   R O   O O   O MM MM
++D   D EEEE  V   V    RRRR  O   O O   O M M M
++D   D E      V V     R R   O   O O   O M   M
++DDDD  EEEEE   V      R  RR  OOO   OOO  M   M
+```
 
 <p align="center">
   <img src="./assets/dev-room-terminal.svg" width="920" alt="Terminal displaying access to Allen's dev room" />
@@ -89,10 +93,14 @@ I'm Allen from France.
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=crousty24-bit&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-  <img src="https://raw.githubusercontent.com/crousty24-bit/crousty24-bit/activity-graph-output/activity-graph.svg?theme=chartreuse-dark" height="150" alt="activity graph" />
 </div>
 
 ## `> contribution_graph --watch`
+
+<div>
+  <img src="https://raw.githubusercontent.com/crousty24-bit/crousty24-bit/activity-graph-output/activity-graph.svg?theme=chartreuse-dark" height="150" alt="activity graph" />
+</div>
+
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crousty24-bit/crousty24-bit/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
